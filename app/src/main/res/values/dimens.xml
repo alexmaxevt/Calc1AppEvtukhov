@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textBox_height">280dp</dimen>
+    <dimen name="textBox_marginBottom">10dp</dimen>
+    <dimen name="text_textSize">50sp</dimen>
+    <dimen name="row_height">100dp</dimen>
+    <dimen name="row_margin">10dp</dimen>
+    <dimen name="num_width">0dp</dimen>
+    <dimen name="num_textSize">30sp</dimen>
+</resources>
